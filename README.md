@@ -1,9 +1,7 @@
 <h1>Avos Flax Picker</h1>
 <i>My first script for Powerbot</i>
 
-<table>
-<tr>
-<td>
+<blockquote>
 <ul align="left">
 <img align="right" src="http://i.imgur.com/31rRvPM.jpg" />
 <br /><br /><br />
@@ -14,6 +12,4 @@
 <li>Custom cursor</li>
 <li>Simple</li>
 </ul>
-</td>
-</tr>
-</table>
+</blockquote>
