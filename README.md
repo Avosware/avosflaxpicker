@@ -3,7 +3,7 @@
 
 <ul align="left">
 <img align="right" src="http://i.imgur.com/31rRvPM.jpg" />
-<br /><br />
+<br /><br /><br />
 <li>Picks and banks flax in Seers Village</li>
 <li>Paint with timers</li>
 <li>Fast picking/clicking</li>
