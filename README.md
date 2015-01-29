@@ -2,8 +2,7 @@
 <i>My first script for Powerbot</i>
 
 <ul align="left">
-<img align="right" style="float:right" src="http://i.imgur.com/31rRvPM.jpg" />
-<li></li>
+<img align="right" valign="middle" style="float:right" src="http://i.imgur.com/31rRvPM.jpg" />
 <li>Picks and banks flax in Seers Village</li>
 <li>Paint with timers</li>
 <li>Fast picking/clicking</li>
