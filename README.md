@@ -7,5 +7,7 @@
 <li>Fast picking/clicking</li>
 <li>Random camera movements/some anti-ban</li>
 <li>Custom cursor</li>
-<li><b>Simple</b></li>
+<li>Simple</li>
 </ul>
+
+<img src="http://i.imgur.com/31rRvPM.jpg" />
