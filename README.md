@@ -1,7 +1,7 @@
 <h1>Avos Flax Picker</h1>
 <i>My first script for Powerbot</i>
 
-<ul align="left">
+<ul border="1" align="left">
 <img align="right" src="http://i.imgur.com/31rRvPM.jpg" />
 <br /><br /><br />
 <li>Picks and banks flax in Seers Village</li>
