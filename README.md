@@ -1,7 +1,7 @@
 <h1>Avos Flax Picker</h1>
 <i>My first script for Powerbot</i>
 
-<div border="1">
+<div border="solid 1px #CCC">
 <ul align="left">
 <img align="right" src="http://i.imgur.com/31rRvPM.jpg" />
 <br /><br /><br />
