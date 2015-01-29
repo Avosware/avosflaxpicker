@@ -1,7 +1,8 @@
 <h1>Avos Flax Picker</h1>
 <i>My first script for Powerbot</i>
 
-<ul>
+<p>
+<ul style="float:left">
 <li>Picks and banks flax in Seers Village</li>
 <li>Paint with timers</li>
 <li>Fast picking/clicking</li>
@@ -10,4 +11,5 @@
 <li>Simple</li>
 </ul>
 
-<img src="http://i.imgur.com/31rRvPM.jpg" />
+<img style="float:right" src="http://i.imgur.com/31rRvPM.jpg" />
+</p>
