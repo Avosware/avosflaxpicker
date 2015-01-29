@@ -7,4 +7,5 @@
 <li>Fast picking/clicking</li>
 <li>Random camera movements/some anti-ban</li>
 <li>Custom cursor</li>
+<li><b>Simple</b></li>
 </ul>
