@@ -3,7 +3,8 @@
 
 <ul align="left">
 <img align="right" src="http://i.imgur.com/31rRvPM.jpg" />
-<li height="400">Picks and banks flax in Seers Village</li>
+<br /><br />
+<li>Picks and banks flax in Seers Village</li>
 <li>Paint with timers</li>
 <li>Fast picking/clicking</li>
 <li>Random camera movements/some anti-ban</li>
